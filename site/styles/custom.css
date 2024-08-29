@@ -1,0 +1,29 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.test {
+  display: block;
+  box-sizing: border-box;
+}
+
+.hero {
+  background-image: url(https://exoticgardenslandscaping.com/wp-content/uploads/2023/12/Exotic-Gardens_29.jpg);
+  background-color: rgba(0, 0, 0, 0.6); /* Darkening color */
+  background-blend-mode: overlay;
+  background-position: center;
+}
+
+div[data-bgimg="1"] {
+  background-image: url(https://exoticgardenslandscaping.com/wp-content/uploads/2023/12/Exotic-Gardens_30-1140x760.jpg);
+  background-position: 50% 50%;
+}
+
+div[data-bgimg="2"] {
+  background-image: url(https://exoticgardenslandscaping.com/wp-content/uploads/2023/12/Exotic-Gardens_28-1.jpeg);
+  background-color: rgba(0, 0, 0, 0.7); /* Darkening color */
+  background-blend-mode: overlay;
+  background-position: center;
+}/*# sourceMappingURL=custom.css.map */
